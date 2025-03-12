@@ -1,3 +1,4 @@
+
 # SECURED
 
 ## Project Overview
@@ -26,7 +27,8 @@ The `hashtable.h` header defines:
   - `void ht_dump(hashtable_t *ht)`: Prints the table’s state.
 
   ## SCREENSHOT OF USAGE
-  ![Secured.c](https://github.com/user-attachments/assets/efa249d0-e496-4ca0-9ccc-cb094b2fadda)
-  ![Output](https://github.com/user-attachments/assets/325eb235-62c2-4bb7-859b-7bc9a4ea3d63)
-  ![Output](https://github.com/user-attachments/assets/83668bac-cd18-4bc0-acd4-42c27e4b192f)
+  ![Secured.c](https://github.com/user-attachments/assets/60addc9f-f9d4-4aef-a3d2-1959441bda40)
+  ![Screenshot From 2025-03-12 12-43-13](https://github.com/user-attachments/assets/6644059d-32a0-4f7b-a27a-c16e5027562a)
+  ![Screenshot From 2025-03-12 12-43-28](https://github.com/user-attachments/assets/e0cd1608-9e7f-45d9-b3c9-5318e2d693fa)
+
 
