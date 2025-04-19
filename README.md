@@ -28,7 +28,5 @@ The `hashtable.h` header defines:
 
   ## SCREENSHOT OF USAGE
   ![Secured.c](https://github.com/user-attachments/assets/60addc9f-f9d4-4aef-a3d2-1959441bda40)
-  ![Screenshot From 2025-03-12 12-43-13](https://github.com/user-attachments/assets/6644059d-32a0-4f7b-a27a-c16e5027562a)
-  ![Screenshot From 2025-03-12 12-43-28](https://github.com/user-attachments/assets/e0cd1608-9e7f-45d9-b3c9-5318e2d693fa)
 
 
