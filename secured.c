@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int size = 40;
+    int size = 100000;
     hashtable_t *ht = new_hashtable(&hash, size);
     ht_insert(ht, "Vision", "hey hey hey");
     ht_insert(ht, "d", "I got it index 0");
